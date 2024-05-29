@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/502010689706181115/)]
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY4eDU5bjJmenV1YngwcDU4OGdneXl0OTBybW9wanp1aTRiaTBvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.webp)
 
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A Passionate Defender of Digital Integrity: Focusing on Cybersecurity Forensics!</h3>
@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/solo-leveling-igris-sung-jin-woo-gif-1900884760895519425">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GmFMnmQhesEAAAAC/solo-leveling-igris.gif">
 
 - 🔭 I’m currently working on **securing the digital world**
 - 👯 I’m looking to collaborate on **cybersecurity projects!**
