@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nikhil-varghese" target="_blank">
+  <a href="https://www.linkedin.com/in/nikhil-joe-v-51b1ab10b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikhil Varghese" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/nikhil_csft24" target="_blank">
